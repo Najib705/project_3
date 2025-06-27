@@ -1,0 +1,136 @@
+body{
+  background: #000000;
+  color: #FFFFFF;
+  margin: 0px;
+  padding: 0px;
+  /*display: flex;
+  justify-content: center;
+  align-items: center;*/
+  height: 700px;
+}
+img{
+  width: 30%;
+  border-radius: 100%;
+  display: block;
+  margin-left: 36%;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  box-shadow: 0px 0px 30px #FF3F3F;
+}
+h1{
+  color: #4CDAFF;
+  text-align: center;
+  text-shadow: 0px 0px 10px #3BD6FF;
+}
+.a{
+  color: #4CDAFF;
+  text-align: center;
+  text-shadow: 0px 0px 10px #3BD6FF;
+}
+div{
+  margin-top: 40pxpx;
+  margin-left: 13%;
+  margin-right: 13%;
+  background: transparent;
+  height: 300px;
+  width: 74%;
+  /*border: 1px solid #45D2FF;*/
+  border-radius: 25px;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 60px rgba(68, 206, 255, 0.67);}
+div h2{
+  font-size: 31px;
+  padding-top: 20px;
+  text-align: center;
+  color: #46D8FF;
+  text-shadow: 0px 0px 8px rgba(70, 216, 255, 1);
+}
+.lab{
+  margin-left: 18%;
+  display: block;
+  color: #46D8FF;
+  text-shadow: 0px 0px 10px rgba(70, 216, 255, 1);
+}
+.email{
+  color: #43E4FF;
+  margin-left: 18%;
+  margin-top: 3px;
+  margin-bottom: 8px;
+  width: 63%;
+  padding: 3px;
+  outline: none;
+  background: transparent;
+  border: 1px solid #43E4FF;
+  border-radius: 7px;
+  box-shadow: 0px 0px 10px #43E4FF;
+}
+.pass{
+  color: #43E4FF;
+  margin-left: 18%;
+  margin-top: 3px;
+  width: 63%;
+  border: 1px none;
+  border-radius: 7px;
+  padding: 3px;
+  outline: none;
+  background: transparent;
+  border: 1px solid #43E4FF;
+  border-radius: 7px;
+  box-shadow: 0px 0px 10px #43E4FF;
+}
+.forgot{
+  display: block;
+  color: #1F84FF;
+  padding-top: 10px;
+  padding-left: 18%;
+  text-decoration: none;
+}
+.forgot:hover{
+  color: #2E2CFF;
+}
+.new{
+  display: inline-block;
+  color: #1F84FF;
+  padding-top: 5px;
+  padding-left: 18%;
+  text-decoration: none;
+}
+.new:hover{
+  color: #2E2CFF;
+}
+.login{
+  color: #3BD6FF;
+  display: block;
+  margin-left: 25%;
+  margin-top: 15px;
+  width: 50%;
+  height: 30px;
+  background: transparent;
+  border: 1px solid #45D2FF;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px #43E4FF;
+}
+.login:hover{
+  color: #000000;
+  border: 1px solid #45D2FF;
+  background: #45D2FF;
+}
+.b{
+  color: #46D8FF;
+  font-size: 20px;
+  padding: 30px;
+  padding-left: 50px;
+}
+.c{
+  padding-left: 30px;
+}
+.link{
+  color: white;
+  background: red;
+  font-size: 15px;
+  text-decoration: none;
+  border: 1px solid #FF0000;
+  border-radius: 20px;
+  padding: 5px;
+}
